@@ -89,9 +89,7 @@
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=ganeshkadur&show_icons=true&locale=en" alt="ganeshkadur" />
 </p>
-<p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ganeshkadur&" alt="ganeshkadur" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ganeshkadur&show_icons=true&locale=en&layout=compact" alt="ganeshkadur" />
